@@ -1,0 +1,6 @@
+id,customer,product,amount
+1,alice,widget,100
+2,alice,widget,150
+3,bob,gadget,200
+4,bob,gadget,175
+5,carl,widget,225
